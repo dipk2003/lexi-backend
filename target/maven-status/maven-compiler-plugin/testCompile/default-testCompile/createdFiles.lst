@@ -1,0 +1,3 @@
+com\lexiai\service\CaseSearchServiceTest.class
+com\lexiai\controller\AuthControllerTest.class
+com\lexiai\integration\LexiAiIntegrationTest.class
